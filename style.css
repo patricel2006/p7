@@ -16,12 +16,16 @@
 .titre
 {
 	color: blue;
-	font-size: 4.5em;
+	font-size: 3.5em;
 	border: black 3px double;
 	box-shadow: black 6px 6px 0px;
 }
 body
 {
 	background-color: aliceblue;
+}
+h2
+{
+	text-decoration: blue underline;
 }
 
