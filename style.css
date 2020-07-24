@@ -1,0 +1,27 @@
+/* fichier de style */
+
+.introduction
+{
+	color: blue;
+	text-align: center;
+	text-decoration: blue;
+	font-size: 1.4em;
+
+}
+
+.photo
+{
+	text-align: center;
+}
+.titre
+{
+	color: blue;
+	font-size: 4.5em;
+	border: black 3px double;
+	box-shadow: black 6px 6px 0px;
+}
+body
+{
+	background-color: aliceblue;
+}
+
